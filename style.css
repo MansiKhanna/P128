@@ -1,0 +1,13 @@
+body{
+    background-color: darkturquoise;
+}
+#timer{
+    font-size: 30px;
+    float:right;
+    margin-right: 20px;
+}
+#score{
+    font-size: 30px;
+    float:left;
+    margin-right: 10px;
+}
